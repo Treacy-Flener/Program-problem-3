@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\user\desktop\consoleapplication1\consoleapplication1\language.h(4): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
